@@ -6,8 +6,8 @@ title: Jacob Gardner's CV
 BYU-I Statistics Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jalega12@icloud.com">jalega12@icloud.com</a>
+| <a href="https://www.linkedin.com/in/jacobgardner12/">My LinkedIn page</a>
 </div>
 
 
@@ -54,4 +54,4 @@ __Service Missionary__, Henderson, NV
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
